@@ -1,2 +1,2 @@
-# docker-template
+# simple-docker-template
 customizable docker template
